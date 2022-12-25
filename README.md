@@ -8,22 +8,10 @@
  
 
 #### 2. 模型checkpoint文件链接为: 
-(1)Bert-checkpoint
- <https://pan.baidu.com/s/1GJfY_1nqNc24XwakzYHHdA>
-
-(1)T5-checkpoint-split_1 <https://pan.baidu.com/s/1ZoI_tWu5JVqTGKX1Wh3cBw> 密码: o6w7
-
-
-(2)T5-checkpoint-split_2
-<https://pan.baidu.com/s/1iD5mRz4Ca_u0LDq8BAEk6A> 
-密码: dvux
-
-(3)T5-checkpoint-split_3
-<https://pan.baidu.com/s/1xoPxRVutVEdkc1MSNgze3w>
-密码: k85x 
+(1)以下链接中共含有一个BERT分类模型参数，三个T5模型压缩包其中共有7个T5模型。
+https://pan.baidu.com/s/1OnkepRTBc8suyOY4uXSqJg?pwd=hghs
 
 **note: 模型下载完成后, 需要放到data/user_data/model文件夹里**
-
 
 
 #### 3. docker中的运行命令为:(详情见image文件夹中的README)
