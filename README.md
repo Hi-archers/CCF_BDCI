@@ -49,4 +49,8 @@ log打印出 "Finish T5 inference..." 为T5模型inference结束
 ```shell
 "Finish generate result..." 为生成results结束标志
 ```
+#### 5 Web端运行
 
+```shell
+python web/app.py
+```
