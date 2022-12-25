@@ -4,7 +4,7 @@
 
 #### 1. 复现镜像和代码链接为
 
-<https://pan.baidu.com/s/1n3YoBrrzJ9il7yfyOhK8DQ?pwd=i9dv >
+<https://pan.baidu.com/s/1n3YoBrrzJ9il7yfyOhK8DQ?pwd=i9dv>
  
 
 #### 2. 模型checkpoint文件链接为: 
