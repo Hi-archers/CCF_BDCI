@@ -9,7 +9,7 @@
 
 #### 2. 模型checkpoint文件链接为: 
 (1)Bert-checkpoint
-<https://pan.baidu.com/s/1GJfY_1nqNc24XwakzYHHdA>
+ <https://pan.baidu.com/s/1GJfY_1nqNc24XwakzYHHdA>
 
 (1)T5-checkpoint-split_1 <https://pan.baidu.com/s/1ZoI_tWu5JVqTGKX1Wh3cBw> 密码: o6w7
 
